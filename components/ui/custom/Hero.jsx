@@ -12,7 +12,7 @@ function Hero() {
   const OnGenrate = (input) => {
     setMessages({
       role: 'user',
-      Content: inpu
+      Content: input
     });
   }
 
